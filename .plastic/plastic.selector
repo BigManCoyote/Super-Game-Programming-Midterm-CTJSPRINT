@@ -1,0 +1,3 @@
+repository "Super Game Programming Midterm/Super Game Programming Midterm@1375788307678@cloud"
+  path "/"
+    smartbranch "/main"
